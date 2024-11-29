@@ -1,0 +1,148 @@
+{
+    "advantages": [
+        {
+            "title": "Высокий уровень образования",
+            "description": "Уровень образования учеников Лампады достаточно высок, что подтверждается высокими баллами ВПР и МЦКО  Ежегодно в нашей Гимназии проводится гимназический этап Всероссийской олимпиады школьников.",
+            "image": "/src/assets/data/images/education.svg"
+        },
+        {
+            "title": "Множество разнообразных кружков",
+            "description": "В стенах нашей Гимназии для детей открыт целый ряд кружков, секций и дополнительных занятий: это пение, флористика, английский клуб, занятия с логопедом, скорочтение, литературная гостиная, колокольный звон, тхэквондо, гимнастика, самбо, хореография, настольный теннис, лечебная физкультура. Каждый сможет выбрать занятие по душе. ",
+            "image": "/src/assets/data/images/clubs.svg"
+        },
+        {
+            "title": "Праздники",
+            "description": "В жизни Гимназии есть место не только учебному труду, но и ярким праздникам. Это Рождественские и Пасхальные концерты и балы, увлекательные мастер-классы, веселые масленичные гуляния и благотворительные ярмарки, которые всегда оставляют самые яркие впечатления у детей и их родителей. ",
+            "image": "/src/assets/data/images/celebrity.png"
+        },
+        {
+            "title": "Индивидуальный подход",
+            "description": "Небольшие по численности классы (не более 10 человек) позволяют применять индивидуальный подход к каждому ребенку с учетом его потребностей, а также поддерживать здоровую духовно-нравственную атмосферу в детском коллективе.",
+            "image": "/src/assets/data/images/conversation.svg"
+        }
+    ],
+    "products": [
+        {
+            "name": "Учебный план доп. образования 5 и 6 классы",
+            "link": "https://lampada-obr.ru/files/uchplan_do_5.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 1
+        },
+        {
+            "name": "Рабочая программа по истории 5 класс",
+            "link": "https://lampada-obr.ru/files/prog_ist5.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 2
+        },
+        {
+            "name": " Рабочая программа по истории 6-9 класс",
+            "link": "https://lampada-obr.ru/files/prog_ist.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 3
+        },
+        {
+            "name": "Рабочая программа по обществознанию 5-9 кл",
+            "link": "https://lampada-obr.ru/files/prog_obch.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 4
+        },
+        {
+            "name": "Рабочая программа по математике 5-6 кл",
+            "link": "https://lampada-obr.ru/files/prog_matem.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 5
+        },
+        {
+            "name": "Рабочая программа по информатике 5-6 кл",
+            "link": "https://lampada-obr.ru/files/prog_informat.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 6
+        },
+        {
+            "name": " Рабочая программа по русскому языку 5 класс",
+            "link": "https://lampada-obr.ru/files/prog_rus.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 7
+        },
+        {
+            "name": " Рабочая программа по французскому языку 5-9 кл",
+            "link": "https://lampada-obr.ru/files/prog_fr.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 8
+        },
+        {
+            "name": "Рабочая программа по литературе 5 класс",
+            "link": "https://lampada-obr.ru/files/prog_liter.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 9
+        },
+        {
+            "name": "Рабочая программа по георгафии 5-6 кл",
+            "link": "https://lampada-obr.ru/files/prog_geogr.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 10
+        },
+        {
+            "name": "Рабочая программа по физической культуре 5-9 кл",
+            "link": "https://lampada-obr.ru/files/prog_fiz-ra.pdf",
+            "icon": "/src/assets/data/images/productsIcon.svg",
+            "id": 11
+        }
+        
+    ],
+    "contacts": [
+        {
+            "text": "+7(495) 456-31-52 ",
+            "url": "tel:+74954563152 ",
+            "image": "/src/assets/data/images/phone.svg"
+        },
+        {
+            "text": "125414, Москва, Фестивальная улица, дом 77, корпус 1",
+            "url": "https://yandex.ru/maps/-/CDtIaMNr",
+            "image": "/src/assets/data/images/address.svg"
+        },
+        {
+            "text": "Проезд: Станция метро «Речной вокзал», авт. 188, 284, 857, 745, до ост. «Больница, библиотека им. Короленко». Платформа «Ховрино» ленинградского направления, пешком через грачевский парк (10 минут) до храма",
+            "url": "",
+            "image": ""
+        }
+    ],
+    "team": [
+        {
+            "NSL": "Кудиярова Вероника Александровна",
+            "position": "директор гимназии, Юрист (МГЮА, с отличием), Лингвист (МГЛУ, с отличием), Специалист в области государственного и муниципального управления (РАНХиГС)",
+            "photo": "/src/assets/data/images/team/1.jpg"
+        },
+        {
+            "NSL": "Корнеева Наталия Леонидовна",
+            "position": "Заместитель директора, Учитель начальных классов ЕГПИ), специалист в области экономики труда и управления персоналом(Финансовый университет при Правительстве РФ)",
+            "photo": "/src/assets/data/images/team/2.jpg"
+        },
+        {
+            "NSL": "Евтушенко Елена Викторовна",
+            "position": "Учитель начальных классов",
+            "photo": "/src/assets/data/images/team/3.jpg"
+        },
+        {
+            "NSL": "Сергеева Светлана Игоревна ",
+            "position": "Учитель начальных классов",
+            "photo": "/src/assets/data/images/team/4.jpg"
+        },
+        {
+            "NSL": "Становская Татьяна Алексеевна",
+            "position": "Учитель основ православной культуры и веры, церковнославянского языка, кандидат педагогических наук",
+            "photo": "/src/assets/data/images/team/5.jpg"
+        },
+        {
+            "NSL": "Венско Елена Сергеевна",
+            "position": "Учитель английского языка",
+            "photo": "/src/assets/data/images/team/6.jpg"
+        },
+        {
+            "NSL": "Цветкова Мария Вячеславовна",
+            "position": "Учитель музыки и церковного пения",
+            "photo": "/src/assets/data/images/team/7.jpg"
+        }
+
+    ]
+}
